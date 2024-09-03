@@ -55,13 +55,14 @@ When these conditions are satisfied, a success message will be displayed on the 
 
    ```bash
    git clone https://github.com/zkamdar1/Akari_Game.git
-  ```
+    ```
 2. **Navigate into the project directory**:
   Change into the project directory:
 
-  ```bash
+    ```bash
     cd Akari_Game
-  ```
+    ```
+
 3. **Open the Project in IntelliJ:**
     - Open IntelliJ IDEA.
     - Select "Open" and navigate to the Akari_game directory.
